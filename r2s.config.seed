@@ -13,7 +13,7 @@ CONFIG_PACKAGE_luci-app-openclash=y
 CONFIG_PACKAGE_luci-app-cpufreq=y
 CONFIG_PACKAGE_luci-app-passwall=y
 CONFIG_PACKAGE_luci-app-ssr-plus=y
-CONFIG_PACKAGE_luci-app-adbyby-plu
+CONFIG_PACKAGE_luci-app-adbyby-plus=y
 
 
 CONFIG_PACKAGE_luci-theme-argon=y
